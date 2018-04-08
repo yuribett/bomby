@@ -1,0 +1,6 @@
+export const TIME_BIN_SHUFFLE = 40
+
+// Actions
+export const DECREMENT_CONTDOWN = 'DECREMENT_CONTDOWN'
+export const RESET_CONTDOWN = 'RESET_CONTDOWN'
+export const SHUFFLE_BINS = 'SHUFFLE_BINS'

@@ -1,0 +1,28 @@
+.Bomb {
+  border-radius: 50%;
+	height: 80px; 
+	width: 80px;
+}
+
+.Bomb-counter {
+  background-color: darkorange;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Bomb--red {
+  background-color: red;
+}
+
+.Bomb--blue {
+  background-color: blue;
+}
+
+.Bomb--green {
+  background-color: green;
+}

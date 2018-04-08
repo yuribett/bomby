@@ -1,0 +1,21 @@
+.Bin {
+  height: 120px;
+  width: 100px;
+}
+
+.Bin--increase {
+  height: 132px;
+  width: 110px;
+}
+
+.Bin--red {
+  background-color: red;
+}
+
+.Bin--blue {
+  background-color: blue;
+}
+
+.Bin--green {
+  background-color: green;
+}

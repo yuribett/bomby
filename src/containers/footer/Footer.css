@@ -1,0 +1,11 @@
+.Footer-binsContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Footer-countdown {
+  float: right;
+  padding: 20px 20px 0 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
